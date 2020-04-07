@@ -7,5 +7,5 @@ theBeatlesPlay(musicians, instruments);
     var temp2 = musicians[i] + instruments[i];
     temp1.push(temp2);
   }
-  return temp1
+  return temp1;
 }
