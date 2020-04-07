@@ -36,4 +36,5 @@ function iLoveTheBeatles(num)
     resultArray.push(tempString);
     i++;
   }
+  while(i<15);
 }
