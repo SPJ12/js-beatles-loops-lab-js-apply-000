@@ -12,5 +12,5 @@ function theBeatlesPlay(musicians, instruments)
 function johnLennonFacts(facts)
 {
   var temp1 = [];
-  while ()
+  while (var i)
 }
