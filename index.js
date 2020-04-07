@@ -32,7 +32,8 @@ function iLoveTheBeatles(num)
   var resultArray = [];
   var tempString = "I love the Beatles!";
   
-  do {
+  do 
+  {
     resultArray.push(tempString);
     num++;
   }
