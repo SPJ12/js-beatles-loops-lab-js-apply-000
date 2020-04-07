@@ -1,18 +1,21 @@
 // add solution here
 function theBeatlesPlay(musicians, instruments)
 {
-  var temp1 = [];
+  var resultArray = [];
   for(var i=0;i<musicians.length; i++)
   {
-    var temp2 = `${musicians[i]} plays ${instruments[i]}`;
-    temp1.push(temp2);
+    var tempString = `${musicians[i]} plays ${instruments[i]}`;
+    resultArray.push(tempString);
   }
-  return temp1;
+  return resultArray;
 }
 function johnLennonFacts(facts)
 {
-  var temp1 = [];
+  var resultArray = [];
   var i = 0;
-  while (i<facts.length)
-  var t
+  while (i<facts.length){
+  var tempString = `${facts[i]} !!!`;
+  resultArray.push(tempString);
+  }
+  return resultArray
 }
