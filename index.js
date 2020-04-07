@@ -36,6 +36,6 @@ function iLoveTheBeatles(num)
     resultArray.push(tempString);
     num++;
   }
-  while(num<14);
+  while(num<15);
   return resultArray
 }
