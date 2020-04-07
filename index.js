@@ -20,6 +20,7 @@ function johnLennonFacts(facts)
   {
     var tempString = `${facts[i]} !!!`;
     resultArray.push(tempString);
+    i++;
   }
   
   return resultArray
