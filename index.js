@@ -34,5 +34,6 @@ function iLoveTheBeatles(num)
   var tempString = "I love the Beatles!";
   do {
     resultArray.push(tempString);
+    i++;
   }
 }
