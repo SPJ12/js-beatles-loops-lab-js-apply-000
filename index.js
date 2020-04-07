@@ -37,4 +37,5 @@ function iLoveTheBeatles(num)
     num++;
   }
   while(num<14);
+  return resultArray
 }
